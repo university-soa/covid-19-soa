@@ -8,4 +8,4 @@ docker run -d -p 8081:8081 --rm --name covid_19_news_rest denisduev/covid-19:lat
 echo "Starting frontend - vue.js application"
 docker run -d -p 8080:8080 --rm --name covid_19_vuejs denisduev/covid-19-vuejs:latest
 
-echo "You can access the app on: http://localhost:8080"
+echo "After a while, you can access the app on: http://localhost:8080"
