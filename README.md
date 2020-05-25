@@ -1,4 +1,4 @@
-# covid-19-soa
+# Information System Documentation
 This repo contains automation and documentation for starting the university SOA project
 
 ## Prerequisites
