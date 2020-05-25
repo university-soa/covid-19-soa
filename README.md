@@ -3,7 +3,6 @@ This repo contains automation and documentation for starting the university SOA 
 
 ## Prerequisites
 [Docker](https://www.docker.com/)
-[npm](https://www.npmjs.com/get-npm)
 
 ## Start the service
 execute `start.sh`
